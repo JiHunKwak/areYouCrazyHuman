@@ -1,0 +1,2 @@
+# areYouCrazyHuman
+openai education
